@@ -1,0 +1,11 @@
+{
+    "disableIdealLine": 1,
+    "disableAutosteer": 1,
+    "stabilityControlLevelMax": 0,
+    "disableAutoPitLimiter": 1,
+    "disableAutoGear": 1,
+    "disableAutoClutch": 0,
+    "disableAutoEngineStart": 1,
+    "disableAutoWiper": 1,
+    "disableAutoLights": 1
+}
