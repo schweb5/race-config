@@ -14,6 +14,6 @@
     "randomizeTrackWhenEmpty": 0,
     "allowAutoDQ": 0,
     "shortFormationLap": 0,
-    "formationLapType": 1,
+    "formationLapType": 0,
     "configVersion": 1
 }

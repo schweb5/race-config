@@ -1,10 +1,10 @@
 {
     "qualifyStandingType": 1,
     "pitWindowLengthSec": -1,
-    "driverStintTimeSec": -1,
+    "driverStintTimeSec": 4200,
     "isRefuellingAllowedInRace": true,
     "isRefuellingTimeFixed": false,
-    "maxDriversCount": -1,
+    "maxDriversCount": 4,
     "mandatoryPitstopCount": 0,
     "maxTotalDrivingTime": -1,
     "isMandatoryPitstopRefuellingRequired": false,
