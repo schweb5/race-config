@@ -38,7 +38,7 @@
             "dayOfWeekend": 3,
             "timeMultiplier": 1,
             "sessionType": "R",
-            "sessionDurationMinutes": 630
+            "sessionDurationMinutes": 360
         }
     ]
 }
