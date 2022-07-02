@@ -1,0 +1,44 @@
+{
+    "track": "misano",
+    "eventType": "E_3h",
+    "preRaceWaitingTimeSeconds": 150,
+    "postQualySeconds": 120,
+    "sessionOverTimeSeconds": 150,
+    "postRaceSeconds": 200,
+    "ambientTemp": 27,
+    "trackTemp": 25,
+    "cloudLevel": 0.2,
+    "rain": 0,
+    "weatherRandomness": 3,
+    "configVersion": 1,
+    "sessions": [
+        {
+            "hourOfDay": 16,
+            "dayOfWeekend": 1,
+            "timeMultiplier": 1,
+            "sessionType": "P",
+            "sessionDurationMinutes": 60
+        },
+        {
+            "hourOfDay": 14,
+            "dayOfWeekend": 2,
+            "timeMultiplier": 1,
+            "sessionType": "Q",
+            "sessionDurationMinutes": 10
+        },
+        {
+            "hourOfDay": 12,
+            "dayOfWeekend": 3,
+            "timeMultiplier": 1,
+            "sessionType": "R",
+            "sessionDurationMinutes": 30
+        },
+        {
+            "hourOfDay": 22,
+            "dayOfWeekend": 3,
+            "timeMultiplier": 1,
+            "sessionType": "R",
+            "sessionDurationMinutes": 30
+        }
+    ]
+}
