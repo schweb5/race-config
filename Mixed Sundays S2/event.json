@@ -24,7 +24,7 @@
             "dayOfWeekend": 2,
             "timeMultiplier": 1,
             "sessionType": "Q",
-            "sessionDurationMinutes": 10
+            "sessionDurationMinutes": 20
         },
         {
             "hourOfDay": 12,
