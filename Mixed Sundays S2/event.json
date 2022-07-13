@@ -1,13 +1,13 @@
 {
-    "track": "paul_ricard_2021",
+    "track": "misano",
     "eventType": "E_3h",
     "preRaceWaitingTimeSeconds": 150,
     "postQualySeconds": 120,
     "sessionOverTimeSeconds": 150,
     "postRaceSeconds": 200,
-    "ambientTemp": 30,
+    "ambientTemp": 27,
     "trackTemp": 25,
-    "cloudLevel": 0.3,
+    "cloudLevel": 0.2,
     "rain": 0,
     "weatherRandomness": 3,
     "configVersion": 1,
@@ -17,14 +17,7 @@
             "dayOfWeekend": 1,
             "timeMultiplier": 1,
             "sessionType": "P",
-            "sessionDurationMinutes": 90
-        },
-        {
-            "hourOfDay": 22,
-            "dayOfWeekend": 1,
-            "timeMultiplier": 1,
-            "sessionType": "P",
-            "sessionDurationMinutes": 10
+            "sessionDurationMinutes": 60
         },
         {
             "hourOfDay": 14,
@@ -34,11 +27,18 @@
             "sessionDurationMinutes": 20
         },
         {
-            "hourOfDay": 18,
+            "hourOfDay": 12,
             "dayOfWeekend": 3,
             "timeMultiplier": 1,
             "sessionType": "R",
-            "sessionDurationMinutes": 360
+            "sessionDurationMinutes": 30
+        },
+        {
+            "hourOfDay": 22,
+            "dayOfWeekend": 3,
+            "timeMultiplier": 1,
+            "sessionType": "R",
+            "sessionDurationMinutes": 30
         }
     ]
 }

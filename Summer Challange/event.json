@@ -1,5 +1,5 @@
 {
-    "track": "imola_2021",
+    "track": "zolder",
     "eventType": "E_3h",
     "preRaceWaitingTimeSeconds": 150,
     "postQualySeconds": 120,
@@ -24,21 +24,14 @@
             "dayOfWeekend": 2,
             "timeMultiplier": 1,
             "sessionType": "Q",
-            "sessionDurationMinutes": 10
+            "sessionDurationMinutes": 20
         },
         {
-            "hourOfDay": 12,
+            "hourOfDay": 16,
             "dayOfWeekend": 3,
             "timeMultiplier": 1,
             "sessionType": "R",
-            "sessionDurationMinutes": 30
-        },
-        {
-            "hourOfDay": 22,
-            "dayOfWeekend": 3,
-            "timeMultiplier": 1,
-            "sessionType": "R",
-            "sessionDurationMinutes": 30
+            "sessionDurationMinutes": 45
         }
     ]
 }
