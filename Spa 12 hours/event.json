@@ -2,7 +2,7 @@
     "track": "spa_franchorchamps_2021",
     "eventType": "E_24h",
     "preRaceWaitingTimeSeconds": 150,
-    "postQualySeconds": 120,
+    "postQualySeconds": 30,
     "sessionOverTimeSeconds": 30,
     "postRaceSeconds": 200,
     "ambientTemp": 30,

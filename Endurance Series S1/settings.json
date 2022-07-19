@@ -1,11 +1,11 @@
 {
-    "serverName": "Light Speed Racing | 12 hours at Spa-Franchorchamps",
+    "serverName": "Light Speed Racing | Endurance Series",
     "password": "LSR",
     "adminPassword": "____________",
     "maxCarSlots": 60,
     "spectatorSlots": 10,
     "spectatorPassword": "Zpect4tor!",
-    "carGroup": "GT3",
+    "carGroup": "FreeForAll",
     "trackMedalsRequirement": 0,
     "safetyRatingRequirement": -1,
     "racecraftRatingRequirement": -1,

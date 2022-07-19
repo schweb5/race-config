@@ -1,37 +1,44 @@
 {
-    "track": "zolder",
-    "eventType": "E_3h",
+    "track": "laguna_seca_2021",
+    "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 150,
     "postQualySeconds": 30,
     "sessionOverTimeSeconds": 150,
     "postRaceSeconds": 200,
     "ambientTemp": 27,
     "trackTemp": 25,
-    "cloudLevel": 0.2,
-    "rain": 0,
+    "cloudLevel": 0.3,
+    "rain": 0.2,
     "weatherRandomness": 3,
     "configVersion": 1,
     "sessions": [
         {
-            "hourOfDay": 16,
+            "hourOfDay": 12,
             "dayOfWeekend": 1,
             "timeMultiplier": 1,
             "sessionType": "P",
-            "sessionDurationMinutes": 60
+            "sessionDurationMinutes": 90
+        },
+        {
+            "hourOfDay": 22,
+            "dayOfWeekend": 1,
+            "timeMultiplier": 1,
+            "sessionType": "P",
+            "sessionDurationMinutes": 15
         },
         {
             "hourOfDay": 14,
             "dayOfWeekend": 2,
             "timeMultiplier": 1,
             "sessionType": "Q",
-            "sessionDurationMinutes": 20
+            "sessionDurationMinutes": 15
         },
         {
-            "hourOfDay": 16,
+            "hourOfDay": 15,
             "dayOfWeekend": 3,
-            "timeMultiplier": 1,
+            "timeMultiplier": 2,
             "sessionType": "R",
-            "sessionDurationMinutes": 45
+            "sessionDurationMinutes": 240
         }
     ]
 }
