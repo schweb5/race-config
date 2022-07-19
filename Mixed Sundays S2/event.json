@@ -1,7 +1,7 @@
 {
     "track": "misano",
     "eventType": "E_3h",
-    "preRaceWaitingTimeSeconds": 150,
+    "preRaceWaitingTimeSeconds": 30,
     "postQualySeconds": 120,
     "sessionOverTimeSeconds": 150,
     "postRaceSeconds": 200,
