@@ -1,0 +1,37 @@
+{
+    "track": "watkins_glen",
+    "eventType": "E_3h",
+    "preRaceWaitingTimeSeconds": 150,
+    "postQualySeconds": 20,
+    "sessionOverTimeSeconds": 150,
+    "postRaceSeconds": 200,
+    "ambientTemp": 30,
+    "trackTemp": 25,
+    "cloudLevel": 0.3,
+    "rain": 0,
+    "weatherRandomness": 3,
+    "configVersion": 1,
+    "sessions": [
+        {
+            "hourOfDay": 16,
+            "dayOfWeekend": 1,
+            "timeMultiplier": 1,
+            "sessionType": "P",
+            "sessionDurationMinutes": 60
+        },
+        {
+            "hourOfDay": 14,
+            "dayOfWeekend": 2,
+            "timeMultiplier": 1,
+            "sessionType": "Q",
+            "sessionDurationMinutes": 20
+        },
+        {
+            "hourOfDay": 18,
+            "dayOfWeekend": 3,
+            "timeMultiplier": 1,
+            "sessionType": "R",
+            "sessionDurationMinutes": 90
+        }
+    ]
+}
