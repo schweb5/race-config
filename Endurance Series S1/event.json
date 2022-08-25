@@ -7,8 +7,8 @@
     "postRaceSeconds": 200,
     "ambientTemp": 27,
     "trackTemp": 25,
-    "cloudLevel": 0.3,
-    "rain": 0.2,
+    "cloudLevel": 0.1,
+    "rain": 0.1,
     "weatherRandomness": 3,
     "configVersion": 1,
     "sessions": [
@@ -31,12 +31,12 @@
             "dayOfWeekend": 2,
             "timeMultiplier": 1,
             "sessionType": "Q",
-            "sessionDurationMinutes": 15
+            "sessionDurationMinutes": 20
         },
         {
             "hourOfDay": 15,
             "dayOfWeekend": 3,
-            "timeMultiplier": 2,
+            "timeMultiplier": 1,
             "sessionType": "R",
             "sessionDurationMinutes": 240
         }
