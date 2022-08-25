@@ -8,7 +8,7 @@
     "mandatoryPitstopCount": 0,
     "maxTotalDrivingTime": -1,
     "isMandatoryPitstopRefuellingRequired": false,
-    "isMandatoryPitstopTyreChangeRequired": true,
+    "isMandatoryPitstopTyreChangeRequired": false,
     "isMandatoryPitstopSwapDriverRequired": false,
     "tyreSetCount": 50
 }

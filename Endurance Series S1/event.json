@@ -27,18 +27,11 @@
             "sessionDurationMinutes": 15
         },
         {
-            "hourOfDay": 13,
-            "dayOfWeekend": 2,
-            "timeMultiplier": 1,
-            "sessionType": "Q",
-            "sessionDurationMinutes": 10
-        },
-        {
             "hourOfDay": 14,
             "dayOfWeekend": 2,
             "timeMultiplier": 1,
             "sessionType": "Q",
-            "sessionDurationMinutes": 10
+            "sessionDurationMinutes": 20
         },
         {
             "hourOfDay": 15,
