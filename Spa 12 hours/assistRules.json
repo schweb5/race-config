@@ -5,7 +5,7 @@
     "disableAutoPitLimiter": 1,
     "disableAutoGear": 1,
     "disableAutoClutch": 0,
-    "disableAutoEngineStart": 1,
-    "disableAutoWiper": 1,
-    "disableAutoLights": 1
+    "disableAutoEngineStart": 0,
+    "disableAutoWiper": 0,
+    "disableAutoLights": 0
 }
